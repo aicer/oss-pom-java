@@ -20,7 +20,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.aicer</groupId>
   <artifactId>oss-pom-java</artifactId>
-  <version>1</version>
+  <version>2-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>AICER OSS Highest Level  Parent POM for Java Projects</name>
   <url>https://github.com/aicer/oss-pom-java/wiki</url>
